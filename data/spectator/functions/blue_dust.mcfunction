@@ -1,0 +1,2 @@
+particle minecraft:dust 0.0 0.0 1.0 0.5 ^ ^ ^0.2 ^ ^ ^ 0 0 force @a[distance=2..,gamemode=!spectator]
+particle minecraft:dust 0.0 0.0 1.0 0.5 ^ ^ ^1 ^ ^ ^ 0 0 force @a[distance=2..,gamemode=!spectator]
